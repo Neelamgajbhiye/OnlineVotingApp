@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live Project link: https://tlf2l4-3000.preview.csb.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
