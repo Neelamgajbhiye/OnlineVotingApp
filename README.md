@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
+This project shows use of redux state management in react application
 
 ## Live Project link: https://tlf2l4-3000.preview.csb.app/
 
